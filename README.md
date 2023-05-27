@@ -18,7 +18,8 @@
 
 <h3>Contacts</h3>
 <p>
- <a href = "gabrielmousquer1227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+ <a href = "mailto:gabrielmousquer1227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielmousquer0&show_icons=true&theme=dark&hide=stars,issues&&count_private=true"/>
 <img src="https://streak-stats.demolab.com/?user=gabrielmousquer0&theme=dark&hide_border=true&locale=pt-br"/>
