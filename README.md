@@ -1,15 +1,11 @@
-<h3>Main Language</h3>
+
+ 
+<h2>Languages and Tools</h2>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-333?style=flat-square&logo=javascript&Color=white" />
-</p>
-<h3>Javascript Frameworks</h3>
-<p>
-   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-333?style=flat-square&logo=Typescript&Color=blue" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" />
- </p>
- 
-<h3>Tools</h3>
-<p>
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visualstudiocode&Color=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
