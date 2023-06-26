@@ -19,4 +19,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielmousquer0&show_icons=true&theme=dark&hide=stars,issues&&count_private=true"/>
 <img src="https://streak-stats.demolab.com/?user=gabrielmousquer0&theme=dark&hide_border=true&locale=pt-br"/>
-<a href="https://app.daily.dev/gms"><img src="https://api.daily.dev/devcards/538bddc168714ca59686c9812939c404.png?r=u9d" width="400" alt="gabriel mousquer dos santos's Dev Card"/></a>
+<img src="https://app.daily.dev/gms"><img src="https://api.daily.dev/devcards/538bddc168714ca59686c9812939c404.png?r=u9d" width="400" alt="gabriel mousquer dos santos's Dev Card"" />
