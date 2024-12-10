@@ -1,5 +1,3 @@
-# Perfil de Gabriel Mousquer
-
 ## Linguagens
 
 <p align="center">
@@ -32,19 +30,12 @@
 
 ## Contato
 
-Você pode me contatar através do email:  
 [**Gmail**](mailto:gabrielmousquer1227@gmail.com)  
-[Perfil no GitHub](https://github.com/gabrielmousquer0)
+[**GitHub**](https://github.com/gabrielmousquer0)
 
 ## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmousquer0&show_icons=true&theme=dark&hide=stars,issues&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://streak-stats.demolab.com/?user=gabrielmousquer0&theme=dark&hide_border=true&locale=pt-br" alt="Streak do GitHub" />
-</p>
-
-## Dev Card
-
-<p align="center">
-  <img src="https://api.daily.dev/devcards/538bddc168714ca59686c9812939c404.png?r=u9d" width="400" alt="Dev Card de Gabriel Mousquer" />
 </p>
