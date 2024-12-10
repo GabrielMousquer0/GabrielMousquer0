@@ -30,7 +30,7 @@
 
 ## Contato
 
-[**Gmail**]([[mailto:gabrielmousquer1227@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=new)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWtDmBVbHLgMqJgKqpdCNldTgxXmfbzQhfzPzcjWnzSJKVtfTxKfCmGTllbBDSczzBsqwPrGG))  
+[**Gmail**]([mailto:gabrielmousquer1227@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=new)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWtDmBVbHLgMqJgKqpdCNldTgxXmfbzQhfzPzcjWnzSJKVtfTxKfCmGTllbBDSczzBsqwPrGG))  
 [**GitHub**](https://github.com/gabrielmousquer0)
 
 ## Estatísticas do GitHub
