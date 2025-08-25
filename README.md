@@ -1,7 +1,7 @@
 <h2 align="center">🧑‍💻 Sobre mim</h2>
 
 <p align="center">
-  Desenvolvedor <b>Full Stack</b> com experiência em <b>Node.js</b>, <b>Vue.js</b> e <b>Golang</b>.  
+  Desenvolvedor <b>Full Stack</b> com experiência em <b>Node.js</b> e <b>Vue.js</b>.  
   Apaixonado por criar soluções <b>eficientes</b>, <b>escaláveis</b> e <b>bem estruturadas</b>,  
   atuando tanto no <b>frontend</b> quanto no <b>backend</b>.<br>
   Entre em contato comigo: 
@@ -55,3 +55,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmousquer0&show_icons=true&theme=tokyonight&hide=stars,issues&count_private=true" alt="Estatísticas do GitHub" />
 </p>
+
