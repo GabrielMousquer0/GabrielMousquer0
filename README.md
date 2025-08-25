@@ -55,7 +55,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielmousquer0&show_icons=true&theme=tokyonight&hide=stars,issues&count_private=true" alt="Estatísticas do GitHub" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielmousquer0&theme=tokyonight&hide_border=true&locale=pt-br" alt="Streak do GitHub" />
-</p>
